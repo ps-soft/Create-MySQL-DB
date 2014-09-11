@@ -1,4 +1,4 @@
-<!--Created By programming-source.com -->
+<!--programming-source.com -->
 <!--Run this script from your localhost/createdb.php -->
 <!--Using this script assumes your testing on wamp with username: root and no password -->
 
